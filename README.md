@@ -1,11 +1,11 @@
 <div align="center">
-<h2> Hello there! 🥸</h2>
+<h2> Hi there! 🥸</h2>
 </div>
 
 <!-- <h2 width="30px" height="50px"></h2> -->
 
 <div align="center">
-  <h3> My name is Patrick and I code with passion 😇</h3>
+  <h3> My name is Patrick and I'm a 🧙🏽‍♂️ in React 💻</h3>
 </div>
 
 <h2 width="30px" height="50px"></h2>
@@ -28,4 +28,4 @@
   
   <h2 width="30px" height="50px"></h2>
   
-(https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=patrick-s-katambi&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
